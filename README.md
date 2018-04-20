@@ -1,4 +1,4 @@
 # CV
-Pagrindinis išsilavinimas
+**Pagrindinis išsilavinimas
 
 Vytauto Didžiojo Universietas (2004-2008) - Ekonomistas
