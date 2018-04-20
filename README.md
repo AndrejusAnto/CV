@@ -1,2 +1,2 @@
-# CV <h1>
+# CV
 Pagrindinis išsilavinimas
