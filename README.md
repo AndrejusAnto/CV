@@ -12,3 +12,13 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   * Ataskaitų rengimas
   * Pagalba programuotojams ieškant klaidų ir sprendžiant iškilusias problemas
   * Pagalba kolegoms kompiuterinių problemų atveju
+
+**Sugebėjimai:**
+
+  * Moku instaliuoti (naujdoti) Linux'us, Windows'us, nebijau komandinėss eilutės
+  * Pramokęs programuoti su Python'u, taip pat esu supažinęs su machine learning, sql duomenų basėmis.
+  
+  **Kalbos:**
+    
+  * Lietuvių
+  * Anglų suprantu, bet neturiu daug patrties kalbant arba rašant.
