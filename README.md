@@ -31,4 +31,4 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   * Lietuvių
   * Anglų - suprantu, bet neturiu daug patrties kalbant arba rašant.
   
-  **Kalbos:**
+  **Kursai:**
