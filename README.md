@@ -21,6 +21,11 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   
   **Savybės:**
   
+  * Analitinis, kritinis mąstymas
+  * Draugiškas
+  * Besidomintis naujovėmis
+  * 
+  
   **Kalbos:**
     
   * Lietuvių
