@@ -22,6 +22,7 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   **Savybės:**
   
   cv.lt asmeninių gebėjimų testas (https://www.cv.lt/karjerostestas#!?tab=GABUMAI):
+  
   Jūsų gabumus lemia šie intelekto tipai:
   Vidinis - 19.7%
   Natūralistinis - 14.5%
@@ -39,6 +40,10 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   * Draugiškas
   * Besidomintis naujovėmis
   * Komandiškas
+  
+  cv.lt karjeros interesų testas (
+  
+  
   
   **Kalbos:**
    
