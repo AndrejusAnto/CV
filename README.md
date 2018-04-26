@@ -22,7 +22,6 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   **Savybės:**
   
   cv.lt asmeninių gebėjimų testas (https://www.cv.lt/karjerostestas#!?tab=GABUMAI):
-  
   Jūsų gabumus lemia šie intelekto tipai:
   Vidinis - 19.7%
   Natūralistinis - 14.5%
@@ -32,7 +31,9 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   Kinestezinis - 12.0%
   Erdvinis - 9.4%
   Muzikinis - 6.0%
+  
   Vidinis intelektas – tai gabumas pažinti save, paaiškinti savo ir kitų žmonių mintis, jausmus, emocijas, nusipiešti tikslų savo psichologinį portretą, ieškoti atsakymų į būties klausimus. Žmogus, kurio vidinis intelektas dominuoja, yra jautrus savo vertybėms, gerai pažįsta savo jausmus, pranašumus, trūkumus, puikiai suvokia savo tikslą, turi intuiciją, vidinę motyvaciją. Vidinio intelekto žmonės yra linkę į savianalizę ir individualizmą, jiems nesvetimas uždarumas. Kartais kitų jie yra vertinami kaip keistoki.
+  
   Natūralistinis intelektas pasireiškia kaip pagarbi ir tausojanti meilė gamtai, gebėjimas ją stebėti, ja rūpintis, ją globoti. Tai – šiuolaikinio žmogaus neprarastojo ryšio su žeme, gyvybės ciklais ir biologiniais ritmais apraiška.
   * Analitinis, kritinis mąstymas
   * Draugiškas
