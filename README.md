@@ -20,6 +20,7 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   * Taip pat turiu patirties su Blender'iu (3D programa, ką nuveikęs galima pamatyti čia https://www.youtube.com/watch?v=BQ9vbdqxeQk&list=PL0EQUv65iMdyg8GHlblAYAB5F0RSHXXMH), gimp'u redaguojant nuotraukas, video redagavimu.
   
   **Savybės:**
+  
   cv.lt asmeninių gebėjimų testas:
   
   Jūsų gabumus lemia šie intelekto tipai:
