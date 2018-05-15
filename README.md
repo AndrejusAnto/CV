@@ -5,7 +5,7 @@ Vytauto Didžiojo Universietas (2004 - 2008) - Ekonomistas (bakalauras)
 
 **Darbo patirtis:**
 
-Universiteto laikais kelios vasaros pagalbiniu darbininku Senukų sandėliuose, taip pat apie mėn. kauno kooperacijos didmeninė prekybos sandėlyje.
+Universiteto laikais kelios vasaros pagalbiniu darbininku Senukų sandėliuose, taip pat apie mėn. kauno kooperacijos didmeninės prekybos sandėlyje.
 
 UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinės pareigybės:
   * Duomenų suvedimas į apskaitos sistemą
@@ -15,7 +15,7 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
 
 **Sugebėjimai:**
 
-  * Moku instaliuoti (naujdoti) Linux'us, Windows'us, moku dirbit su daugeliu office tipo programos ir pan., nebijau komandinės eilutės, turiu supratimą apie kompiuterines dalis, pagrindines galiu atpažinti, bet neesu sudėjęs kompiuterio.
+  * Moku instaliuoti (naujdoti) Linux'us, Windows'us ir programas, nebijau komandinės eilutės, susipažinęs su bash/shell script'inimu, moku dirbit su daugeliu office tipo programom ir pan., turiu supratimą apie kompiuterines dalis, pagrindines galiu atpažinti, bet neesu sudėjęs kompiuterio.
   * Pramokęs programuoti su Python'u, taip pat esu supažinęs su machine learning, sql duomenų basėmis (galima pamatyti mano github'e).
   * Taip pat turiu patirties su Blender'iu (3D programa, ką nuveikęs galima pamatyti čia https://www.youtube.com/watch?v=BQ9vbdqxeQk&list=PL0EQUv65iMdyg8GHlblAYAB5F0RSHXXMH), gimp'u redaguojant nuotraukas, video redagavimu.
   
@@ -47,6 +47,6 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   **Kalbos:**
    
   * Lietuvių
-  * Anglų - suprantu, bet neturiu daug patrties kalbant arba rašant.
+  * Anglų - suprantu, bet neturiu daug patirties kalbant arba rašant.
   
   **Kursai:**
