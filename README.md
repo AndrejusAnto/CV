@@ -15,7 +15,7 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
 
 **Sugebėjimai:**
   * Pramokęs programuoti su Python'u
-  * Moku instaliuoti (naujdoti) Linux'us, Windows'us ir programas
+  * Moku instaliuoti (naudoti) Linux'us, Windows'us ir programas
   * Nebijau komandinės eilutės
   
   *Susipažinęs:*
@@ -26,10 +26,11 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   * Sql duomenų basėmis (https://github.com/Orasporas/aliobutai/blob/master/sqlaliobutai.ipynb)
   
   * Moku dirbit su daugeliu office tipo programom ir pan.,
-  * Turiu supratimą apie kompiuterines dalis, pagrindines galiu atpažinti, bet neesu sudėjęs kompiuterio.
-  * Turiu patirties su Blender'iu (3D programa https://www.youtube.com/watch?v=BQ9vbdqxeQk&list=PL0EQUv65iMdyg8GHlblAYAB5F0RSHXXMH)
+  * Su kompiuterinėmis dalimis, pagrindines galiu atpažinti, bet neesu sudėjęs kompiuterio.
+  * Blender'iu (3D programa https://www.youtube.com/watch?v=BQ9vbdqxeQk&list=PL0EQUv65iMdyg8GHlblAYAB5F0RSHXXMH)
+  * Video redagavimu (Blender)
   * Gimp'u redaguojant nuotraukas
-  * Video redagavimu.
+  
   
   **Savybės:**
   
