@@ -15,9 +15,17 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
 
 **Sugebėjimai:**
 
-  * Moku instaliuoti (naujdoti) Linux'us, Windows'us ir programas, nebijau komandinės eilutės, susipažinęs su bash/shell script'inimu, taip pat virtualenv, moku dirbit su daugeliu office tipo programom ir pan., turiu supratimą apie kompiuterines dalis, pagrindines galiu atpažinti, bet neesu sudėjęs kompiuterio.
-  * Pramokęs programuoti su Python'u, taip pat esu supažinęs su machine learning, sql duomenų basėmis (galima pamatyti mano github'e).
-  * Taip pat turiu patirties su Blender'iu (3D programa, ką nuveikęs galima pamatyti čia https://www.youtube.com/watch?v=BQ9vbdqxeQk&list=PL0EQUv65iMdyg8GHlblAYAB5F0RSHXXMH), gimp'u redaguojant nuotraukas, video redagavimu.
+  * Moku instaliuoti (naujdoti) Linux'us, Windows'us ir programas,
+  * Nebijau komandinės eilutės
+  * Susipažinęs su bash/shell script'inimu, taip pat virtualenv,
+  * Moku dirbit su daugeliu office tipo programom ir pan.,
+  * Turiu supratimą apie kompiuterines dalis, pagrindines galiu atpažinti, bet neesu sudėjęs kompiuterio.
+  * Pramokęs programuoti su Python'u, 
+  * Taip pat esu supažinęs su Machine Learning (Scikit-learn, Keras (TensorFlow)
+  * Sql duomenų basėmis (galima pamatyti mano github'e).
+  * Turiu patirties su Blender'iu (3D programa, ką nuveikęs galima pamatyti čia https://www.youtube.com/watch?v=BQ9vbdqxeQk&list=PL0EQUv65iMdyg8GHlblAYAB5F0RSHXXMH)
+  * Gimp'u redaguojant nuotraukas
+  * Video redagavimu.
   
   **Savybės:**
   
