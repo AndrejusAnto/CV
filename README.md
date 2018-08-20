@@ -17,6 +17,7 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   * Pramokęs programuoti su Python'u
   * Moku instaliuoti (naudoti) Linux'us, Windows'us ir programas
   * Nebijau komandinės eilutės
+  * Moku dirbit su daugeliu office tipo programom ir pan.
   
   *Susipažinęs:*
   * Python bibliotekomis: pandas, numpy, bokeh.
@@ -26,8 +27,6 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   * Docker https://github.com/Orasporas/Blender-3D-stuff/blob/master/blenderdocker.sh
   * Machine Learning (Scikit-learn, Keras (TensorFlow))
   * Sql duomenų basėmis (https://github.com/Orasporas/aliobutai/blob/master/sqlaliobutai.ipynb)
-  
-  * Moku dirbit su daugeliu office tipo programom ir pan.,
   * Su kompiuterinėmis dalimis, pagrindines galiu atpažinti, bet neesu sudėjęs kompiuterio.
   * Blender'iu (3D programa https://www.youtube.com/watch?v=BQ9vbdqxeQk&list=PL0EQUv65iMdyg8GHlblAYAB5F0RSHXXMH)
   * Video redagavimu (Blender)
