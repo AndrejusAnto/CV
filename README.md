@@ -17,11 +17,16 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
 
   * Moku instaliuoti (naujdoti) Linux'us, Windows'us ir programas,
   * Nebijau komandinės eilutės
-  * Susipažinęs su bash/shell script'inimu, taip pat virtualenv,
+  
+  **Susipažinęs:**
+  * Bash/shell script'inimu 
+  * Virtualenv
+  * Docker
+  
   * Moku dirbit su daugeliu office tipo programom ir pan.,
   * Turiu supratimą apie kompiuterines dalis, pagrindines galiu atpažinti, bet neesu sudėjęs kompiuterio.
-  * Pramokęs programuoti su Python'u, 
-  * Taip pat esu supažinęs su Machine Learning (Scikit-learn, Keras (TensorFlow)
+  * Pramokęs programuoti su Python'u
+  * Taip pat esu supažinęs su Machine Learning (Scikit-learn, Keras (TensorFlow))
   * Sql duomenų basėmis (galima pamatyti mano github'e).
   * Turiu patirties su Blender'iu (3D programa, ką nuveikęs galima pamatyti čia https://www.youtube.com/watch?v=BQ9vbdqxeQk&list=PL0EQUv65iMdyg8GHlblAYAB5F0RSHXXMH)
   * Gimp'u redaguojant nuotraukas
