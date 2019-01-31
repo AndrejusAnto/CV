@@ -64,4 +64,5 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   * Anglų - suprantu, bet neturiu daug patirties kalbant arba rašant.
   
   **Kursai:**
+  
   CodeAcademy pravedžiau supažindinimo Python'o kursą.
