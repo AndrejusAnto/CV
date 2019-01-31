@@ -31,7 +31,7 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   * Blender'iu (3D programa https://www.youtube.com/watch?v=BQ9vbdqxeQk&list=PL0EQUv65iMdyg8GHlblAYAB5F0RSHXXMH)
   * Video redagavimu (Blender)
   * Gimp'u redaguojant nuotraukas
-  *** Dabar mokausi C programavimo kalbą**
+  * Dabar mokausi C programavimo kalbą
   
   **Savybės:**
   
@@ -64,3 +64,4 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   * Anglų - suprantu, bet neturiu daug patirties kalbant arba rašant.
   
   **Kursai:**
+  CodeAcademy pravedžiau supažindinimo Python'o kursą.
