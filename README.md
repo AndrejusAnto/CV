@@ -22,7 +22,7 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   *Susipažinęs:*
   * Python bibliotekomis: pandas, numpy, bokeh.
   * Bash/shell script'inimu https://github.com/Orasporas/Blender-3D-stuff/blob/master/blenderdocker.sh
-  * Virtualenv
+  * Virtualenv (conda) ir virtualizacijos programomis (Gnome Boxes, VirtualBox ir pan.)
   * Webscraping'imu https://github.com/Orasporas/aliobutai/blob/master/aliobutai.py
   * Docker https://github.com/Orasporas/Blender-3D-stuff/blob/master/blenderdocker.sh
   * Machine Learning (Scikit-learn, Keras (TensorFlow))
