@@ -15,7 +15,7 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
 
 **Sugebėjimai:**
   * Pramokęs programuoti su Python'u
-  * Moku instaliuoti (naudoti) Linux'us, Windows'us ir programas
+  * Moku instaliuoti (naudoti) Linux'us, Windows'us ir programas, kaip pagrindinė operacinę sistemą naudoju Linux'us
   * Nebijau komandinės eilutės
   * Moku dirbit su daugeliu office tipo programom ir pan.
   
